@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/jiangmiao/auto-pairs/tree/master/plugin
+HostUrl=https://github.com/jiangmiao/auto-pairs/blob/master/plugin/auto-pairs.vim
